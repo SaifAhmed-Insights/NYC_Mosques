@@ -1,4 +1,5 @@
 NYC Mosques Data Project – Technical Documentation
+
 📌 Overview
 This project collects mosque data from Google Maps Places API, stores it in a MongoDB Atlas database, and provides a FastAPI backend with endpoints to search, manage, and fetch reviews of mosques across New York City.
 
